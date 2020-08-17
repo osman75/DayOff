@@ -36,9 +36,13 @@ ul li a:hover{
 }
 
 .active a{
-  background-color: #fff;
-  color: #000;
+  border-bottom: 2.5px solid #fff;
 }
+
+.active1 a{
+  background-color:#a8df65;
+}
+
 .logo img{
   float: left;
   width:150px
